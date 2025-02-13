@@ -1,0 +1,22 @@
+.counterApp {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .counterApp h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .counterApp p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .counterApp button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
